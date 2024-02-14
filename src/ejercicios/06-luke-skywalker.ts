@@ -63,7 +63,6 @@ import { ajax } from 'rxjs/ajax';
         personaje,
       }))
     )
-
     .subscribe(console.log); // ==
   // =======================================
 })();
